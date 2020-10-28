@@ -1,4 +1,4 @@
-/* .toplayer{
+.toplayer{
 background-color: orange;
 text-align: center;
 width: 30em;
@@ -25,13 +25,3 @@ background-color: green;
 width: 30em;
 height: 100px;
 }
-.stand{
-   
-    border-color: white;
-    width: 1em;
-    height: 100px;
-    background-color: brown;
-    margin-top: 0;
-    margin-left: 20%;
-    height: 400px;
-} */
